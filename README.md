@@ -1,4 +1,4 @@
-# 100 Days of Swift
+# 100 Days of Swift 101
 
 If you’re following the [100 Days of Swift challenge](https://www.hackingwithswift.com/100) you’ll know there are lots of challenges that make you write code early and often – it’s the most powerful way to learn.
 
